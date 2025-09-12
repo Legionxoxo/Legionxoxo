@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Shivendra Singh Chandel</h1>
 <p align="center">
-  🚀 Fullstack Developer • AI Enthusiast • Open Source Explorer  
+  🚀 Fullstack Developer • AI Enthusiast •
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🌍 Let's Connect
 
-- 📫 Email: [shivendrachandel3@gmail.com](mailto:shivendrachandel3@gmail.com)  
+- 📫 [shivendrachandel3@gmail.com](mailto:shivendrachandel3@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shiv04singh)  
 - 🌐 [Portfolio Website](https://portfolio-drab-theta-70.vercel.app)  
 - 💻 [GitHub](https://github.com/Legionxoxo)
